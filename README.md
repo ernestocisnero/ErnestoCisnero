@@ -1,18 +1,6 @@
 ### Hi there 👋
 
-## I'm Ernesto, Automation engineer and PLC programmer. I do like tech and automation world.
-## Some PLCs brands that I've worked on:
-### - Schneider Electric
-### - Allen Bradley
-### - Siemens
-
-## Other stuffs that I like to use and prove:
-### - CODESYS
-### - Factory-IO
-### - Arduino, ESP xxxx 
-### - Web Development:
-#### - HTML, CSS, JS
-#### - ReactJS
+## I'm Ernesto.
 
  
 
