@@ -1,6 +1,6 @@
 
 ## Some of my work:
-:computer: [MYHARDWARE](https://myhardware.netlify.app/) - :👀: [Look at the code](https://github.com/ernestocisnero/ElectronicShop) 
+💻 [MYHARDWARE](https://myhardware.netlify.app/) - 👀 [Look at the code](https://github.com/ernestocisnero/ElectronicShop) 
 
 
 ## 🌐 Socials:
