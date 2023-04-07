@@ -1,6 +1,6 @@
 
 ## Some of my work:
-[MYHARDWARE](https://myhardware.netlify.app/)
+:computer: [MYHARDWARE](https://myhardware.netlify.app/)
 
 
 ## 🌐 Socials:
